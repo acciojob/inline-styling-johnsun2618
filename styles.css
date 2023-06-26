@@ -5,7 +5,7 @@ div {
     width: 400px;
     border: 2px solid black;
     display: inline-block;
-    background-color: yellow;
+    background-color: rgb(255, 255, 0);
 }
 
 h1 {
